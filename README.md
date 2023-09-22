@@ -1,1 +1,2 @@
-# Codimg-Samurai_TodoList
+# Coding-Samurai_TodoList
+CODIMG SAMURAI WEB DEVELOPMENT INTERNSHIP Task 2(ToDoList)
